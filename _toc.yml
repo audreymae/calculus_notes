@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+parts:
+  - caption: Limits and Continuity
+    chapters:
+      - file: content/limits_continuity/introduction.md
+  - caption: Derivatives
+    chapters:
+      - file: content/derivatives/introduction.md
