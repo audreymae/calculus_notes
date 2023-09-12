@@ -1,3 +1,6 @@
+
+jupyter
 jupyter-book
 matplotlib
 numpy
+# Add any other required packages
